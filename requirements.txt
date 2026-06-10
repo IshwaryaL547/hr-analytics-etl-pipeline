@@ -1,0 +1,13 @@
+sqlalchemy
+
+psycopg2-binary
+
+pandas
+
+numpy
+
+boto3
+
+pytest
+
+matplotlib
