@@ -17,3 +17,6 @@ __pycache__/
 
 # Virtual Environment
 venv/
+
+#Reports
+reports/
