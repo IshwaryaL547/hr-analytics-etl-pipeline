@@ -11,3 +11,6 @@ boto3
 pytest
 
 matplotlib
+
+faker
+
